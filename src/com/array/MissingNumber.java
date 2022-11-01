@@ -28,7 +28,7 @@ public class MissingNumber {
 
         }
         
-        System.out.println(expectedsum-sum1+" is missage number -- ");
+        System.out.println(expectedsum-sum1+" is missage number -- -----");
 
         System.out.println(sum1+ " sum1");
 
