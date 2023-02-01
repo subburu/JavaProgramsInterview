@@ -35,5 +35,7 @@ public class MissingNumber {
         System.out.println(sum2+ " sum2");
 
         System.out.println("missing number is =" +(sum2-sum1));
+        
+        //https://www.javatpoint.com/find-an-element-in-array-such-that-sum-of-the-left-array-is-equal-to-the-sum-of-the-right-array#:~:text=Basically%2C%20the%20sum%20of%20the%20left%20side%20and,the%20array%20into%20an%20equal%20sum%20size%20subarray.
 }
 }
