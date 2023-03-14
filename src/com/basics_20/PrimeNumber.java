@@ -1,4 +1,4 @@
-package com.general;
+package com.basics_20;
 
 public class PrimeNumber {
 	public static void main(String[] args) {
